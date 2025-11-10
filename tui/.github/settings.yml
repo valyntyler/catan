@@ -1,5 +1,0 @@
-repository:
-  name: ctntui
-  description: A TUI for playing games of CTN
-  homepage: https://crates.io/crates/ctntui
-  topics: rust, strategy, board-game, tui
